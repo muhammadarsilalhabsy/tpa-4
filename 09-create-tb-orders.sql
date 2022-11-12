@@ -6,5 +6,3 @@ constraint fk_orders_visitors
 foreign key (visitors_id) references visitors(id),
 primary key(id)
 );
-
-drop table orders;

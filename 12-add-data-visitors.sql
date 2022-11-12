@@ -9,5 +9,3 @@ insert into visitors (name, email, role_id) values
 ("Dr. Angela Emmerich","angelaEmm@hotmail.com","R0001"),
 ("Erika Boyle","erika@hotmail.com","R0001"),
 ("Emmett Hoeger","emmet@hotmail.com","R0002");
-
-desc visitors ;

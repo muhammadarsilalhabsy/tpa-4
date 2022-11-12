@@ -13,7 +13,7 @@ insert into products (id, name, category_id, description, price, quantity) value
 ("P0013","headset","C0005","alat komputer",150000,10),
 ("P0014","mouse","C0005","alat komputer",75000,20),
 ("P0015","Tepung sajiku","C0003","penyedap makanan",3000,50),
-("P0016","Royiko","C0003","penyedap makanan",1000,109),
+("P0016","Royiko","C0003","penyedap makanan",1500,109),
 ("P0017","molto","C0006","pewangi pakaian",1500,53);
 
 

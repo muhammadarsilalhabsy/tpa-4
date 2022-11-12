@@ -1,6 +1,6 @@
 
 -- memulai transaksi
-start transaction 
+start transaction; 
 
 -- menambahkan orders id
 insert into orders (visitors_id) values

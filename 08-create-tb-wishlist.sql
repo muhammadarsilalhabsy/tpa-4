@@ -9,4 +9,4 @@ foreign key (visitors_id) references visitors(id),
 constraint fk_wishlist_products
 foreign key (products_id) references products(id),
 primary key(id)
-)
+);

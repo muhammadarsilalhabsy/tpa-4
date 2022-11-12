@@ -9,4 +9,4 @@ foreign key (products_id) references products(id),
 constraint fk_od_orders
 foreign key (order_id) references orders(id),
 primary key (products_id, order_id)
-)
+);
